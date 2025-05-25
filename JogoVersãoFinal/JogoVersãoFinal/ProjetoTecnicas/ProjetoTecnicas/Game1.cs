@@ -7,14 +7,14 @@ namespace ProjetoTecnicas
 {
     public class Game1 : Game
     {
-        private GraphicsDeviceManager _graphics;          // Gerenciador de dispositivo gráfico
+        private GraphicsDeviceManager _graphics;          // Gestor de dispositivo gráfico
         private AdministradorJogo _administradorJogo;     // Instância do administrador principal do jogo
 
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";            // Define a pasta onde os conteúdos são carregados
-            IsMouseVisible = true;                         // Exibe o cursor do rato na janela do jogo
+            IsMouseVisible = true;                        // Exibe o cursor do rato na janela do jogo
         }
 
         protected override void Initialize()
@@ -29,7 +29,7 @@ namespace ProjetoTecnicas
 
             _graphics.ApplyChanges();                       // Aplica as alterações nas configurações gráficas
 
-            base.Initialize();                              // Chama o método base para inicialização padrão
+            base.Initialize();                              // Chama o método base para iniciação padrão
         }
 
         protected override void LoadContent()
@@ -39,7 +39,7 @@ namespace ProjetoTecnicas
 
             Globais.Content = Content;                      // Guarda o ContentManager global
 
-            // Inicializa a câmera 2D com a viewport atual do dispositivo gráfico
+            // Inicia a câmera 2D com a viewport atual do dispositivo gráfico
             Globais.Camera = new Camera2D(GraphicsDevice.Viewport);
 
             // Carrega a fonte para o score (pontuação)
@@ -51,7 +51,7 @@ namespace ProjetoTecnicas
             // Cria a instância do administrador do jogo
             _administradorJogo = new AdministradorJogo();
 
-            // Inicializa o administrador dos inimigos
+            // Inicia o administrador dos inimigos
             AdministradorInimigo.Init();
         }
 
