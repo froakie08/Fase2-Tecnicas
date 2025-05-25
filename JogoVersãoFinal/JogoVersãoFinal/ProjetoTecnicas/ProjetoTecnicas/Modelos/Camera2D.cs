@@ -7,9 +7,9 @@ namespace ProjetoTecnicas
     public class Camera2D
     {
         public Matrix Transformacao { get; private set; } // Matriz de transformação da câmara
-        public Vector2 Posicao { get; set; } // Posição da câmara no mundo
-        public float Zoom { get; set; } // Nível de zoom da câmara
-        public float Rotacao { get; set; } // Rotação da câmara (caso seja usada)
+        public Vector2 Posicao { get; set; }              // Posição da câmara no mundo
+        public float Zoom { get; set; }                   // Nível de zoom da câmara
+        public float Rotacao { get; set; }                // Rotação da câmara (caso seja usada)
 
         private Viewport _viewport; // Viewport do jogo (área visível da janela)
 
@@ -17,8 +17,8 @@ namespace ProjetoTecnicas
         {
             _viewport = viewport;
             Posicao = Vector2.Zero; // Começa no canto superior esquerdo do mundo
-            Zoom = 2.69f; // Zoom padrão (1.0 = sem zoom)
-            Rotacao = 0f; // Sem rotação
+            Zoom = 2.69f;           // Zoom padrão (1.0 = sem zoom)
+            Rotacao = 0f;           // Sem rotação
         }
 
         public Vector2 EcranParaMundo(Vector2 posicaoEcran)
@@ -57,7 +57,7 @@ namespace ProjetoTecnicas
             Posicao = posicaoAlvo;
         }
 
-        // Opcional: Limita a câmara para não sair dos limites do mapa
+        // Limita a câmara para não sair dos limites do mapa
         public void LimitarAosLimitesDoMapa(Rectangle limitesMapa)
         {
             // Calcula metade da largura e altura da viewport em coordenadas do mundo (ajustadas pelo zoom)
