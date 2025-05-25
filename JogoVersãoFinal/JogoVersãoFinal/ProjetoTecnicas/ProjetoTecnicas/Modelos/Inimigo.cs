@@ -33,7 +33,4 @@ public class Inimigo : BasePersonagens
             Position += direcaoNormalizada * Speed * Globais.TotalSeconds;
         }
     }
-
-    // O método Draw() pode ficar na classe BasePersonagens, 
-    // que usa a propriedade 'texture' herdada para desenhar o inimigo.
 }
