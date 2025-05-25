@@ -40,7 +40,7 @@ namespace ProjetoTecnicas
         {
             texture = tex;
             Position = pos;
-            Arma = Arma1; // Inicializa a arma com a BestaNormal por defeito
+            Arma = Arma1; // Inicia a arma com a BestaNormal por defeito
         }
 
         // Método para alternar entre os dois tipos de armas disponíveis
