@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Guilherme/Desktop/NovaVersão3/ProjetoTecnicas/ProjetoTecnicas/Content/Arvore_1.png</File>
+    <File>C:/Users/Guilherme/Desktop/NovaVersão3/ProjetoTecnicas/ProjetoTecnicas/Content/bullet.png</File>
+    <File>C:/Users/Guilherme/Desktop/NovaVersão3/ProjetoTecnicas/ProjetoTecnicas/Content/Casa_1.png</File>
+    <File>C:/Users/Guilherme/Desktop/NovaVersão3/ProjetoTecnicas/ProjetoTecnicas/Content/Casa_1CORRETA.png</File>
+    <File>C:/Users/Guilherme/Desktop/NovaVersão3/ProjetoTecnicas/ProjetoTecnicas/Content/Casa_2.png</File>
+    <File>C:/Users/Guilherme/Desktop/NovaVersão3/ProjetoTecnicas/ProjetoTecnicas/Content/Efeitomago.png</File>
+    <File>C:/Users/Guilherme/Desktop/NovaVersão3/ProjetoTecnicas/ProjetoTecnicas/Content/EfeitoSomMago.wav</File>
+    <File>C:/Users/Guilherme/Desktop/NovaVersão3/ProjetoTecnicas/ProjetoTecnicas/Content/Goblin.png</File>
+    <File>C:/Users/Guilherme/Desktop/NovaVersão3/ProjetoTecnicas/ProjetoTecnicas/Content/mago.png</File>
+    <File>C:/Users/Guilherme/Desktop/NovaVersão3/ProjetoTecnicas/ProjetoTecnicas/Content/MagoLindo.png</File>
+    <File>C:/Users/Guilherme/Desktop/NovaVersão3/ProjetoTecnicas/ProjetoTecnicas/Content/municao.png</File>
+    <File>C:/Users/Guilherme/Desktop/NovaVersão3/ProjetoTecnicas/ProjetoTecnicas/Content/player.png</File>
+    <File>C:/Users/Guilherme/Desktop/NovaVersão3/ProjetoTecnicas/ProjetoTecnicas/Content/REC.png</File>
+    <File>C:/Users/Guilherme/Desktop/NovaVersão3/ProjetoTecnicas/ProjetoTecnicas/Content/ScoreFont.spritefont</File>
+    <File>C:/Users/Guilherme/Desktop/NovaVersão3/ProjetoTecnicas/ProjetoTecnicas/Content/tile_1.png</File>
+    <File>C:/Users/Guilherme/Desktop/NovaVersão3/ProjetoTecnicas/ProjetoTecnicas/Content/tile_2.png</File>
+    <File>C:/Users/Guilherme/Desktop/NovaVersão3/ProjetoTecnicas/ProjetoTecnicas/Content/TLOU.png</File>
+    <File>C:/Users/Guilherme/Desktop/NovaVersão3/ProjetoTecnicas/ProjetoTecnicas/Content/Tree1.png</File>
+    <File>C:/Users/Guilherme/Desktop/NovaVersão3/ProjetoTecnicas/ProjetoTecnicas/Content/Tree2.png</File>
+    <File>C:/Users/Guilherme/Desktop/NovaVersão3/ProjetoTecnicas/ProjetoTecnicas/Content/zombie.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

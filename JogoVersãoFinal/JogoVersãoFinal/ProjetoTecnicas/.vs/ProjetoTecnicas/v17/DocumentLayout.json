@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|c:\\users\\diogo\\onedrive\\ambiente de trabalho\\jogovers\u00E3ofinal\\jogovers\u00E3ofinal\\projetotecnicas\\projetotecnicas\\administradores\\administradorjogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|solutionrelative:projetotecnicas\\administradores\\administradorjogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|c:\\users\\diogo\\onedrive\\ambiente de trabalho\\jogovers\u00E3ofinal\\jogovers\u00E3ofinal\\projetotecnicas\\projetotecnicas\\mapa\\tilemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|solutionrelative:projetotecnicas\\mapa\\tilemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|c:\\users\\diogo\\onedrive\\ambiente de trabalho\\jogovers\u00E3ofinal\\jogovers\u00E3ofinal\\projetotecnicas\\projetotecnicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|solutionrelative:projetotecnicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|c:\\users\\diogo\\onedrive\\ambiente de trabalho\\jogovers\u00E3ofinal\\jogovers\u00E3ofinal\\projetotecnicas\\projetotecnicas\\globais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|solutionrelative:projetotecnicas\\globais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|c:\\users\\diogo\\onedrive\\ambiente de trabalho\\jogovers\u00E3ofinal\\jogovers\u00E3ofinal\\projetotecnicas\\projetotecnicas\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|solutionrelative:projetotecnicas\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|c:\\users\\diogo\\onedrive\\ambiente de trabalho\\jogovers\u00E3ofinal\\jogovers\u00E3ofinal\\projetotecnicas\\projetotecnicas\\modelos\\projetil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|solutionrelative:projetotecnicas\\modelos\\projetil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|c:\\users\\diogo\\onedrive\\ambiente de trabalho\\jogovers\u00E3ofinal\\jogovers\u00E3ofinal\\projetotecnicas\\projetotecnicas\\modelos\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|solutionrelative:projetotecnicas\\modelos\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|c:\\users\\diogo\\onedrive\\ambiente de trabalho\\jogovers\u00E3ofinal\\jogovers\u00E3ofinal\\projetotecnicas\\projetotecnicas\\modelos\\inimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|solutionrelative:projetotecnicas\\modelos\\inimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|c:\\users\\diogo\\onedrive\\ambiente de trabalho\\jogovers\u00E3ofinal\\jogovers\u00E3ofinal\\projetotecnicas\\projetotecnicas\\modelos\\dadosprojetil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|solutionrelative:projetotecnicas\\modelos\\dadosprojetil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|c:\\users\\diogo\\onedrive\\ambiente de trabalho\\jogovers\u00E3ofinal\\jogovers\u00E3ofinal\\projetotecnicas\\projetotecnicas\\modelos\\camera2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|solutionrelative:projetotecnicas\\modelos\\camera2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|c:\\users\\diogo\\onedrive\\ambiente de trabalho\\jogovers\u00E3ofinal\\jogovers\u00E3ofinal\\projetotecnicas\\projetotecnicas\\modelos\\basepersonagens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|solutionrelative:projetotecnicas\\modelos\\basepersonagens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|c:\\users\\diogo\\onedrive\\ambiente de trabalho\\jogovers\u00E3ofinal\\jogovers\u00E3ofinal\\projetotecnicas\\projetotecnicas\\mapa\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|solutionrelative:projetotecnicas\\mapa\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|c:\\users\\diogo\\onedrive\\ambiente de trabalho\\jogovers\u00E3ofinal\\jogovers\u00E3ofinal\\projetotecnicas\\projetotecnicas\\mapa\\casa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|solutionrelative:projetotecnicas\\mapa\\casa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|c:\\users\\diogo\\onedrive\\ambiente de trabalho\\jogovers\u00E3ofinal\\jogovers\u00E3ofinal\\projetotecnicas\\projetotecnicas\\mapa\\arvores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|solutionrelative:projetotecnicas\\mapa\\arvores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|c:\\users\\diogo\\onedrive\\ambiente de trabalho\\jogovers\u00E3ofinal\\jogovers\u00E3ofinal\\projetotecnicas\\projetotecnicas\\armas\\tiroduplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|solutionrelative:projetotecnicas\\armas\\tiroduplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|c:\\users\\diogo\\onedrive\\ambiente de trabalho\\jogovers\u00E3ofinal\\jogovers\u00E3ofinal\\projetotecnicas\\projetotecnicas\\armas\\bestanormal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|solutionrelative:projetotecnicas\\armas\\bestanormal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|c:\\users\\diogo\\onedrive\\ambiente de trabalho\\jogovers\u00E3ofinal\\jogovers\u00E3ofinal\\projetotecnicas\\projetotecnicas\\armas\\armageral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|solutionrelative:projetotecnicas\\armas\\armageral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|c:\\users\\diogo\\onedrive\\ambiente de trabalho\\jogovers\u00E3ofinal\\jogovers\u00E3ofinal\\projetotecnicas\\projetotecnicas\\administradores\\administradorprojetil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|solutionrelative:projetotecnicas\\administradores\\administradorprojetil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|c:\\users\\diogo\\onedrive\\ambiente de trabalho\\jogovers\u00E3ofinal\\jogovers\u00E3ofinal\\projetotecnicas\\projetotecnicas\\administradores\\administradorinputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|solutionrelative:projetotecnicas\\administradores\\administradorinputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|c:\\users\\diogo\\onedrive\\ambiente de trabalho\\jogovers\u00E3ofinal\\jogovers\u00E3ofinal\\projetotecnicas\\projetotecnicas\\administradores\\administradorinimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|solutionrelative:projetotecnicas\\administradores\\administradorinimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|c:\\users\\diogo\\onedrive\\ambiente de trabalho\\jogovers\u00E3ofinal\\jogovers\u00E3ofinal\\projetotecnicas\\projetotecnicas\\administradores\\administradorhud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772459BD-C27B-4BFF-A215-EA70552B27B5}|ProjetoTecnicas\\ProjetoTecnicas.csproj|solutionrelative:projetotecnicas\\administradores\\administradorhud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\diogo\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\build\\MonoGame.Content.Builder.Task.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Globais.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Globais.cs",
+              "RelativeDocumentMoniker": "ProjetoTecnicas\\Globais.cs",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Globais.cs",
+              "RelativeToolTip": "ProjetoTecnicas\\Globais.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:44:24.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Projetil.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Modelos\\Projetil.cs",
+              "RelativeDocumentMoniker": "ProjetoTecnicas\\Modelos\\Projetil.cs",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Modelos\\Projetil.cs",
+              "RelativeToolTip": "ProjetoTecnicas\\Modelos\\Projetil.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:43:46.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Jogador.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Modelos\\Jogador.cs",
+              "RelativeDocumentMoniker": "ProjetoTecnicas\\Modelos\\Jogador.cs",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Modelos\\Jogador.cs",
+              "RelativeToolTip": "ProjetoTecnicas\\Modelos\\Jogador.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAwIkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:43:31.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DadosProjetil.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Modelos\\DadosProjetil.cs",
+              "RelativeDocumentMoniker": "ProjetoTecnicas\\Modelos\\DadosProjetil.cs",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Modelos\\DadosProjetil.cs",
+              "RelativeToolTip": "ProjetoTecnicas\\Modelos\\DadosProjetil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:43:02.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Camera2D.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Modelos\\Camera2D.cs",
+              "RelativeDocumentMoniker": "ProjetoTecnicas\\Modelos\\Camera2D.cs",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Modelos\\Camera2D.cs",
+              "RelativeToolTip": "ProjetoTecnicas\\Modelos\\Camera2D.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:42:50.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BasePersonagens.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Modelos\\BasePersonagens.cs",
+              "RelativeDocumentMoniker": "ProjetoTecnicas\\Modelos\\BasePersonagens.cs",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Modelos\\BasePersonagens.cs",
+              "RelativeToolTip": "ProjetoTecnicas\\Modelos\\BasePersonagens.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:42:43.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TileMap.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Mapa\\TileMap.cs",
+              "RelativeDocumentMoniker": "ProjetoTecnicas\\Mapa\\TileMap.cs",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Mapa\\TileMap.cs",
+              "RelativeToolTip": "ProjetoTecnicas\\Mapa\\TileMap.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAAM0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:42:23.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Tile.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Mapa\\Tile.cs",
+              "RelativeDocumentMoniker": "ProjetoTecnicas\\Mapa\\Tile.cs",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Mapa\\Tile.cs",
+              "RelativeToolTip": "ProjetoTecnicas\\Mapa\\Tile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:41:11.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdministradorJogo.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Administradores\\AdministradorJogo.cs",
+              "RelativeDocumentMoniker": "ProjetoTecnicas\\Administradores\\AdministradorJogo.cs",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Administradores\\AdministradorJogo.cs",
+              "RelativeToolTip": "ProjetoTecnicas\\Administradores\\AdministradorJogo.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAwHEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:27:06.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoTecnicas\\Program.cs",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Program.cs",
+              "RelativeToolTip": "ProjetoTecnicas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:44:35.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Casa.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Mapa\\Casa.cs",
+              "RelativeDocumentMoniker": "ProjetoTecnicas\\Mapa\\Casa.cs",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Mapa\\Casa.cs",
+              "RelativeToolTip": "ProjetoTecnicas\\Mapa\\Casa.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:40:13.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Game1.cs",
+              "RelativeDocumentMoniker": "ProjetoTecnicas\\Game1.cs",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Game1.cs",
+              "RelativeToolTip": "ProjetoTecnicas\\Game1.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAQwGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T21:16:23.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Arvores.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Mapa\\Arvores.cs",
+              "RelativeDocumentMoniker": "ProjetoTecnicas\\Mapa\\Arvores.cs",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Mapa\\Arvores.cs",
+              "RelativeToolTip": "ProjetoTecnicas\\Mapa\\Arvores.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wCcAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:39:31.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TiroDuplo.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Armas\\TiroDuplo.cs",
+              "RelativeDocumentMoniker": "ProjetoTecnicas\\Armas\\TiroDuplo.cs",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Armas\\TiroDuplo.cs",
+              "RelativeToolTip": "ProjetoTecnicas\\Armas\\TiroDuplo.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:38:22.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Inimigo.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Modelos\\Inimigo.cs",
+              "RelativeDocumentMoniker": "ProjetoTecnicas\\Modelos\\Inimigo.cs",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Modelos\\Inimigo.cs",
+              "RelativeToolTip": "ProjetoTecnicas\\Modelos\\Inimigo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T21:56:58.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BestaNormal.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Armas\\BestaNormal.cs",
+              "RelativeDocumentMoniker": "ProjetoTecnicas\\Armas\\BestaNormal.cs",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Armas\\BestaNormal.cs",
+              "RelativeToolTip": "ProjetoTecnicas\\Armas\\BestaNormal.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBkAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:37:06.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ArmaGeral.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Armas\\ArmaGeral.cs",
+              "RelativeDocumentMoniker": "ProjetoTecnicas\\Armas\\ArmaGeral.cs",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Armas\\ArmaGeral.cs",
+              "RelativeToolTip": "ProjetoTecnicas\\Armas\\ArmaGeral.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswCoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:34:03.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdministradorProjetil.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Administradores\\AdministradorProjetil.cs",
+              "RelativeDocumentMoniker": "ProjetoTecnicas\\Administradores\\AdministradorProjetil.cs",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Administradores\\AdministradorProjetil.cs",
+              "RelativeToolTip": "ProjetoTecnicas\\Administradores\\AdministradorProjetil.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDEAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:31:28.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdministradorInputs.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Administradores\\AdministradorInputs.cs",
+              "RelativeDocumentMoniker": "ProjetoTecnicas\\Administradores\\AdministradorInputs.cs",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Administradores\\AdministradorInputs.cs",
+              "RelativeToolTip": "ProjetoTecnicas\\Administradores\\AdministradorInputs.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:24:34.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdministradorInimigo.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Administradores\\AdministradorInimigo.cs",
+              "RelativeDocumentMoniker": "ProjetoTecnicas\\Administradores\\AdministradorInimigo.cs",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Administradores\\AdministradorInimigo.cs",
+              "RelativeToolTip": "ProjetoTecnicas\\Administradores\\AdministradorInimigo.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAowHkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:21:59.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdministradorHUD.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Administradores\\AdministradorHUD.cs",
+              "RelativeDocumentMoniker": "ProjetoTecnicas\\Administradores\\AdministradorHUD.cs",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Ambiente de Trabalho\\JogoVers\u00E3oFinal\\JogoVers\u00E3oFinal\\ProjetoTecnicas\\ProjetoTecnicas\\Administradores\\AdministradorHUD.cs",
+              "RelativeToolTip": "ProjetoTecnicas\\Administradores\\AdministradorHUD.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:19:08.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MonoGame.Content.Builder.Task.targets",
+              "DocumentMoniker": "C:\\Users\\diogo\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\build\\MonoGame.Content.Builder.Task.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\build\\MonoGame.Content.Builder.Task.targets",
+              "ToolTip": "C:\\Users\\diogo\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\build\\MonoGame.Content.Builder.Task.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\build\\MonoGame.Content.Builder.Task.targets",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAJAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-25T21:53:50.563Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
