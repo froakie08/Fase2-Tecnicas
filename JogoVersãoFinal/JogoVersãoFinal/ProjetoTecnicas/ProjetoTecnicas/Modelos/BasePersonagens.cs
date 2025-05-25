@@ -6,9 +6,7 @@ namespace ProjetoTecnicas
 {
     public class BasePersonagens
     {
-        // ***** ESTA É A PROPRIEDADE QUE ESTAVA EM FALTA OU INACESSÍVEL *****
         public Texture2D Textura { get; protected set; } // Guarda a textura do personagem
-        // *******************************************************************
 
         protected readonly Vector2 Origem;
         public Vector2 Posicao { get; set; }
@@ -19,8 +17,8 @@ namespace ProjetoTecnicas
         {
             get
             {
-                // ***** CORREÇÃO AQUI: Se Posicao é o centro (devido ao uso de 'Origem' no Draw),
-                // então, para obter o canto superior esquerdo do retângulo, subtraímos a 'Origem'. *****
+                // Se Posicao é o centro (devido ao uso de 'Origem' no Draw), então,
+                // para obter o canto superior esquerdo do retângulo, subtraímos a 'Origem'
                 return new Rectangle(
                     (int)(Posicao.X - Origem.X), // Ajusta X para o canto superior esquerdo
                     (int)(Posicao.Y - Origem.Y), // Ajusta Y para o canto superior esquerdo
