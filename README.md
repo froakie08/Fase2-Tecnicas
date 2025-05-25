@@ -16,13 +16,12 @@ Enfrenta implacáveis inimigos em <b>combates frenéticos</b>, usando um cajado 
   <div class="section">
     <h2>🧙‍♂️ Funcionalidades do Jogo</h2>
     <ul>
-      <li>Movimentação livre do jogador com normalização de direção (diagonais não são mais rápidas)</li>
+      <li>Movimentação livre do jogador com normalização da direção</li>
       <li>Mapa gerado com <code>Tilemap</code> de 50x50 tiles (cada tile tem 32x32 píxeis)</li>
-      <li>Desenho de casas (<code>Houses</code>) e árvores (<code>Trees</code>) no mapa</li>
-      <li>Colisões entre jogador e inimigos causam <strong>fim de jogo</strong></li>
-      <li>Deteção de clique esquerdo para disparo de projétil</li>
+      <li>Desenho de casas e árvores no mapa</li>
+      <li>Colisões entre jogador e inimigo causa a derrota<strong>GameOver</strong></li>
       <li>HUD com elementos gráficos carregados via textura</li>
-      <li>Lógica de câmara dinâmica que segue o jogador e fica dentro dos limites do mapa</li>
+      <li>Câmara dinâmica que segue o jogador</li>
     </ul>
   </div>
 
@@ -32,16 +31,16 @@ Enfrenta implacáveis inimigos em <b>combates frenéticos</b>, usando um cajado 
       <li><strong>WASD</strong> — Movimentação do jogador</li>
       <li><strong>Botão esquerdo do rato</strong> — Disparar projétil</li>
       <li><strong>Botão direito do rato</strong> — Pode ser usado para ações alternativas (reservado para extensões)</li>
-      <li><strong>Tecla Espaço</strong> — Evento único (pressionar uma vez, por exemplo para interação futura)</li>
+      <li><strong>Tecla Espaço</strong> — Trocar o tipo de disparo</li>
     </ul>
   </div>
 
   <div class="section">
     <h2>🧠 Lógica dos Inimigos</h2>
-    <p>Os inimigos são geridos pelo <code>AdministradorInimigo</code>, que:</p>
+    <p>Os inimigos são geridos pelo método <code>AdministradorInimigo</code>, que:</p>
     <ul>
-      <li>Inicializa todos os inimigos com posições e comportamentos definidos</li>
-      <li>Atualiza os inimigos com base na posição do jogador</li>
+      <li>Inicia todos os inimigos com posições e comportamentos definidos</li>
+      <li>Atualiza os inimigos com base na posição do jogador, seguindo sempre o mesmo</li>
       <li>Deteta colisões com projéteis e remove inimigos atingidos</li>
       <li>Termina o jogo quando o <strong>jogador colide fisicamente com um inimigo</strong></li>
     </ul>
@@ -51,9 +50,9 @@ Enfrenta implacáveis inimigos em <b>combates frenéticos</b>, usando um cajado 
     <h2>🧱 Estruturas do Mapa</h2>
     <p>O mapa contém diferentes tipos de estruturas:</p>
     <ul>
-      <li><strong>Tiles de base</strong> — Solo do mapa gerado proceduralmente</li>
+      <li><strong>Tiles de base</strong> — Solo do mapa</li>
       <li><strong>Casas</strong> — Estruturas fixas desenhadas por cima do terreno</li>
-      <li><strong>Árvores</strong> — Elementos desenhados duas vezes para garantir sobreposição ao jogador</li>
+      <li><strong>Árvores</strong> — Elementos desenhados sem colisão e tem sobreposição ao jogador</li>
     </ul>
     <p>A classe <code>Tilemap</code> gere todas estas estruturas e fornece as <code>bounds</code> do mapa para a lógica de câmara e colisões.</p>
   </div>
