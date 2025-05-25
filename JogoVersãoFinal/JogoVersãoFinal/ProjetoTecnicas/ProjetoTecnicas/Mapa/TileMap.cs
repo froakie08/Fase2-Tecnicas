@@ -2,7 +2,7 @@
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using System.Collections.Generic;
-using ProjetoTecnicas.Mapa; // Certifica-te que este using está aqui para a classe Arvores
+using ProjetoTecnicas.Mapa; // Certifica-te que este using está aqui para a classe Árvores
 
 namespace ProjetoTecnicas
 {
@@ -16,14 +16,14 @@ namespace ProjetoTecnicas
         public Rectangle MapBounds { get; private set; } // Área total do mapa em pixels
 
         private List<Texture2D> _allTileTextures;        // Lista com todas as texturas de tiles
-        private Random _random;                           // Gerador de números aleatórios
+        private Random _random;                          // Gerador de números aleatórios
         private List<Texture2D> _houseTextures;          // Lista com texturas de casas
         public List<Casa> Houses { get; private set; }   // Lista de casas geradas no mapa
 
-        private List<Texture2D> _arvoresTODAS;            // Lista com texturas de árvores
+        private List<Texture2D> _arvoresTODAS;           // Lista com texturas de árvores
         public List<Arvores> Trees { get; private set; } // Lista de árvores geradas no mapa
 
-        // Construtor que inicializa o mapa com dimensões e tamanhos dos tiles
+        // Construtor que inicia o mapa com dimensões e tamanhos dos tiles
         public Tilemap(int mapWidthTiles, int mapHeightTiles, int tileWidth, int tileHeight)
         {
             MapWidthTiles = mapWidthTiles;
@@ -90,8 +90,6 @@ namespace ProjetoTecnicas
                     return false; // A área colide com uma árvore
                 }
             }
-
-            // Se quiseres verificar outras colisões, adiciona aqui
 
             return true; // Área livre para colocar novo objeto
         }
