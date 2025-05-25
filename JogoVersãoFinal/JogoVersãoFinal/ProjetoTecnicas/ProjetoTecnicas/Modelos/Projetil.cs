@@ -6,8 +6,8 @@ namespace ProjetoTecnicas;
 
 public class Projetil : BasePersonagens
 {
-    public Vector2 Direction { get; set; }   // Direção do projétil (vetor normalizado)
-    public float Lifespan { get; private set; } // Tempo de vida restante do projétil (em segundos)
+    public Vector2 Direction { get; set; }   // Direção do projétil (vetor normal)
+    public float Lifespan { get; private set; } // Tempo de vida restante do projétil
 
     // Construtor que recebe a textura e dados do projétil
     public Projetil(Texture2D tex, DadosProjetil data) : base(tex, data.Position)
@@ -16,7 +16,7 @@ public class Projetil : BasePersonagens
         Rotation = data.Rotation;           // Rotação do projétil (em radianos)
         // Calcula a direção a partir da rotação, usando cosseno e seno
         Direction = new Vector2((float)Math.Cos(Rotation), (float)Math.Sin(Rotation));
-        Lifespan = data.Lifespan;           // Inicializa o tempo de vida do projétil
+        Lifespan = data.Lifespan;           // Inicia o tempo de vida do projétil
     }
 
     // Método para destruir o projétil (definindo o tempo de vida a zero)
