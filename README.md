@@ -115,5 +115,5 @@ Enfrenta implacáveis inimigos em <b>combates frenéticos</b>, usando um cajado 
   </div>
 
   <div class="highlight">
-    <strong>👨‍🏫 Projeto criado como parte da UC de Técnicas de Programação. Este jogo visa demonstrar competências em desenvolvimento de jogos, organização modular do código, gestão de inputs e aplicação de lógica de jogo 2D com colisões.</strong>
+    <strong>👨‍🏫 Projeto criado como parte da UC de Técnicas de Desenvolvimento de Videojogos. Este jogo visa demonstrar competências em desenvolvimento de jogos, organização modular do código, gestão de inputs e aplicação de lógica de jogo 2D com colisões.</strong>
   </div>
