@@ -37,7 +37,7 @@ Enfrenta implacáveis inimigos em <b>combates frenéticos</b>, usando um cajado 
 
   <div class="section">
     <h2>🧠 Lógica dos Inimigos</h2>
-    <p>Os inimigos são geridos pelo método <code>AdministradorInimigo</code>, que:</p>
+    <p>Os inimigos são geridos pela classe <code>AdministradorInimigo</code>, que:</p>
     <ul>
       <li>Inicia todos os inimigos com posições e comportamentos definidos</li>
       <li>Atualiza os inimigos com base na posição do jogador, seguindo sempre o mesmo</li>
@@ -62,7 +62,7 @@ Enfrenta implacáveis inimigos em <b>combates frenéticos</b>, usando um cajado 
     <p>A classe <code>AdministradorInputs</code> gere o estado atual do teclado e rato:</p>
     <ul>
       <li>Deteta direção do jogador com base nas teclas pressionadas</li>
-      <li>Garante normalização da direção (para evitar vantagem ao mover na diagonal)</li>
+      <li>Garante a velocidade normal mesmo na diagonal, para evitar soma de velocidade por dois inputs</li>
       <li>Deteta clique único do botão esquerdo e direito do rato</li>
       <li>Deteta <code>SpacePressed</code> apenas no frame de transição (solto para pressionado)</li>
     </ul>
@@ -73,7 +73,7 @@ Enfrenta implacáveis inimigos em <b>combates frenéticos</b>, usando um cajado 
     <p>O jogo inclui uma <strong>câmara dinâmica</strong> que:</p>
     <ul>
       <li>Segue o jogador a cada frame</li>
-      <li>Garante que não sai dos limites do mapa (função <code>ClampToMapBounds</code>)</li>
+      <li>Garante que não sai dos limites do mapa com a função <code>ClampToMapBounds</code></li>
     </ul>
   </div>
 
@@ -98,6 +98,9 @@ Enfrenta implacáveis inimigos em <b>combates frenéticos</b>, usando um cajado 
       <li>Adicionar múltiplos níveis ou zonas</li>
       <li>Power-ups temporários (velocidade, dano)</li>
       <li>Sons e música ambiente</li>
+      <li>Dar diferentes atributos aoa diferentes inimigos: Zombie = +vida, -velociade; Goblin = vida base, +velocidade; Caçador = +vida, velocidade consoante a distância ao jogador</li>
+      <li>Adicionar animações (corrida, ataque, morte, etc)</li>
+      <li>Mais estruturas com possíveis interações distintas</li>
     </ul>
   </div>
 
