@@ -36,7 +36,7 @@ public static class AdministradorInputs
         if (estadoTeclado.IsKeyDown(Keys.A)) _direction.X--;
         if (estadoTeclado.IsKeyDown(Keys.D)) _direction.X++;
 
-        // Se houver movimento, normalizo para evitar que o movimento na diagonal seja mais rápido
+        // Se houver movimento, normaliza para evitar que o movimento na diagonal não seja mais rápido
         if (_direction != Vector2.Zero)
         {
             _direction.Normalize();
